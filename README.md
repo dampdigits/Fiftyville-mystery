@@ -16,4 +16,8 @@ All you know is that the theft took place on July 28, 2021 and that it took plac
 How will you go about solving this mystery? The Fiftyville authorities have taken some of the town’s records from around the time of the theft and prepared a SQLite database for you, `fiftyville.db`, which contains tables of data from around the town. You can query that table using `SQL SELECT` queries to access the data of interest to you. Using just the information in the database, your task is to solve the mystery.
 
 ## Solution
-The complete solution to this mystery is provided in `log.sql` and the final answers in `answers.txt`
+The complete solution to solving this mystery is provided in `log.sql` and the final answers in `answers.txt`
+
+## Credits
+- Problem statement creator: Staff of CS50x from Harvard University
+- Creator of solution: [@dampdigits](https://github.com/dampdigits)
